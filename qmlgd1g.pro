@@ -24,14 +24,22 @@ RESOURCES += \
     res.qrc
 
 FORMS += \
-    APL/qmlgd1g.ui
+    APL/qmlgd1g.ui \
+    APL/role0form.ui \
+    APL/role1form.ui
 
 HEADERS += \
     APL/qmlgd1g.h \
+    APL/role0form.h \
+    APL/role1form.h \
+    BK/appglobal.h \
     BK/people.h
 
 SOURCES += \
     APL/qmlgd1g.cpp \
+    APL/role0form.cpp \
+    APL/role1form.cpp \
+    BK/appglobal.cpp \
     BK/main.cpp \
     BK/people.cpp
 
