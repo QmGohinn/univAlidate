@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/loginlogo.ico</file>
+        <file>res/add.ico</file>
+        <file>res/close.ico</file>
+        <file>res/login.ico</file>
+        <file>res/icons8_people.ico</file>
+    </qresource>
+</RCC>
